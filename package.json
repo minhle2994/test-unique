@@ -1,0 +1,10 @@
+{
+  "name": "test-unique",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@polkadot/api": "^7.11.1",
+    "@unique-nft/types": "0.2.0"
+  }
+}
